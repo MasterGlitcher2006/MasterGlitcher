@@ -2,6 +2,13 @@
 Dissasembled DLL's from Yandere Simulator, build from June 3rd
 There is also an updated source code. Original (old) code: https://github.com/YandereSimSC/YandereSimulatorSource
 
+How to download?
+1. Click on the green “Code” button.
+2. Click on the “Download ZIP” button.
+3. Unzip the “YandereSimulatorSource2025-main” folder.
+4. Unzip the “Assembly-CSharp” folder.
+5. Done! Now enjoy the “ingenious” code.
+
 P.S I had to create an archive because there were more than 2,000 files
 
 ### Technical note
