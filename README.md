@@ -1,5 +1,7 @@
 # Yandere Simulator Source Code 2025
 Dissasembled DLL's from Yandere Simulator, build from June 3rd
+There is also an updated source code. Original (old) code: https://github.com/YandereSimSC/YandereSimulatorSource
+
 
 ### Technical note
 I used [AssetRipper](https://github.com/AssetRipper/AssetRipper) for decompilation, no further work was requiered
